@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="stylesheet" href="css/style.css">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Everyday Shopping List</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <h1>My Shopping List</h1>
-    <input type="text" id="itemInserted"placeholder='ItemName'
-    class="js-name-input">
-    <button onclick="addItemsBtn";>Add</button>
-    <button onclick="clearListBtn"
->Clear</button>
-<ul id="shoppingList"></ul>
-<script
-    src="index.js"></script>
-    
+    <form id="inputItems" action="#">
+        <input type="text" id="itemInserted" placeholder="ItemName" class="item-name-input">
+        <button id="addItemsBtn" type="button">Add</button>
+        <button id="purchasedBtn" type="button">Mark Purchased</button>
+        <button id="clearListBtn" type="button">Clear</button>
+    </form>
+    <ul class="shopping-list" id="shoppingList"></ul>
+    <script src="index.js"></script>
 </body>
 </html>

@@ -1,13 +1,18 @@
 # Wk_2_Code-Challenge
 # Learning Goals/Outcomes
-*How to use javascript alongside other programs i.e HTML to  iterate through an array and access and manipulate list items.
+- How to use javascript alongside other programs i.e HTML to iterate through an array and access and manipulate list items.
 
-*The learner should also gain experience in dynamically modifying the DOM based on user interaction.
+- The learner should also gain experience in dynamically modifying the DOM based on user interaction.
 
-*This challenge reinforces understanding of event listeners and their use in creating interactive applications.
+- This challenge reinforces understanding of event listeners and their use in creating interactive applications.
  
 
-# Requirements
+# Requirements(Technologies)
+- HTML
+- Javascript
+- CSS
+
+# Expected Components and knowledge.
 Array: Maintain a JavaScript array to store shopping list items.
 
 DOM Manipulation:
@@ -28,33 +33,33 @@ For this project I am required to use HTML and Javascript to create a webpage wi
 
 # Pre-Requisites.
 For one to be able to run this code they would need to have the following requirements:
-*A machine that runs on Windows 7+,Linux or Mac OS.
-*Nodejs 10.0+
-*An valid web browser with a developer console(usually accessed by pressing F12 or Ctrl+Shift+I in your browser) whereby you can paste the code intended to run.
-*A valid code editor such as VS Code or an online code editor such as Codepen
+- A machine that runs on Windows 7+,Linux or Mac OS.
+- Nodejs 10.0+
+- An valid web browser with a developer console(usually accessed by pressing F12 or Ctrl+Shift+I in your browser) whereby you can paste the code intended to run.
+- A valid code editor such as VS Code or an online code editor such as Codepen
 
 # Installation
 In order to be able to access this repository,there are a variety of steps one can take.
 
 Alternative One
 
-*Open a terminal / command line interface on your local machine(computer)
+- Open a terminal / command line interface on your local machine(computer)
 
-*Clone the repository holding this project by using the input:
+- Clone the repository holding this project by using the input:
  git clone https:https://github.com/Kevinichai Wk_2_Code-Challenge.git
 
-*Wait for the sequence to run until it successfully clones the repository on your local machine
+- Wait for the sequence to run until it successfully clones the repository on your local machine
 
-*Navigate to the repo folder using the cd function
+- Navigate to the repo folder using the cd function
 
-*Open the repository on an editor of your choice(preferably Visual Studio Code)
+- Open the repository on an editor of your choice(preferably Visual Studio Code)
 
-*You have successfully cloned this repo and can now navigate its contents
+- You have successfully cloned this repo and can now navigate its contents
 
 Alternative Two
-*Make your way to the repository main page and press the fork button
+- Make your way to the repository main page and press the fork button
 
-*This allows you to fork the repo to your individual github account from where you can use the first alternative to successfuly install this repo.
+- This allows you to fork the repo to your individual github account from where you can use the first alternative to successfuly install this repo.
 
 # Running the Programs
 In order for one to successfully run these programs, a recent version of node.js is required.

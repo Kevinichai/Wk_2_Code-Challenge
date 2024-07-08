@@ -1,1 +1,6 @@
-h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: medium;}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: larger;}
+body{
+    background: url(https://unsplash-assets.imgix.net/unsplashplus/feeds/sports/8p5iSTcbLKU.jpg?dpr=1&h=390.99999999999994&q=80&w=340&auto=format&fit=crop);
+    background-repeat: no-repeat;
+    background-size: cover;}
+#inputItems{}
