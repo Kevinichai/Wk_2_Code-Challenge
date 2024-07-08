@@ -41,7 +41,7 @@ Alternative One
 *Open a terminal / command line interface on your local machine(computer)
 
 *Clone the repository holding this project by using the input:
- git clone https:
+ git clone https:https://github.com/Kevinichai Wk_2_Code-Challenge.git
 
 *Wait for the sequence to run until it successfully clones the repository on your local machine
 
