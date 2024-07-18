@@ -3,9 +3,9 @@ let shoppingList = [];
 
 document.addEventListener('DOMContentLoaded', function () {
     const itemInserted = document.getElementById('itemInserted');
-    const addItemsBtn = document.getElementById('addItemsBtn'); // Corrected the ID to 'addItemsBtn'
+    const addItemsBtn = document.getElementById('addItemsBtn');
     const clearListBtn = document.getElementById('clearListBtn');
-    const listContainer = document.getElementById('shoppingList'); // Renamed to avoid conflict
+    const listContainer = document.getElementById('shoppingList'); 
 
     // Function to add item to the list
     function addItem(itemName) {
